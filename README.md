@@ -19,10 +19,10 @@ Advanced AI Chatbot for Discord using Chat GPT and NodeJS and Discord.JS
 ```
 2. Install the required packages by running 
 ```bash
-  npm install`
+  npm install
 ````
 3. Rename `.env-example` file to `.env` file
-4. Put your OpenAI API key into the `.env` file
+4. Put your OpenAI API key & Discord Bot Token into the `.env` file
     - You can obtain an API key [here](https://platform.openai.com/account/api-keys)
     - Discord Developer Portal: [here](https://discord.com/developers/applications)
 5. Run the bot using 
